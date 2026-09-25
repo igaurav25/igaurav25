@@ -111,7 +111,7 @@ GoWithStudy is a full-stack educational web application designed to provide stud
 | **Performance** | Optimized server-side rendering and responsive UI |
 | **Security** | Secure authentication and protected user data |
 | **Impact** | Centralizes study planning and resource management |
-|**Repository**| https://www.gitpeekr.com/ |
+|**Repository**| https://www.github.com/igaurav25/gowithstudy/ |
 |**App link** | https://gowithstudy.vercel.app/ |
 
 Technical Explanation:
