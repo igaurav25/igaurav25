@@ -98,22 +98,29 @@ Worked across the stack — from gameplay mechanics and goal detection on the fr
 
 </details>
 
-<details>
-<summary><b>🔹 [Project Two Name]</b></summary>
+<details open>
+<summary><b>🔹 GowithStudy</b></summary>
 <br/>
 
-[Add a concise, impact-focused description.]
+GoWithStudy is a full-stack educational web application designed to provide students with a centralized platform for managing their academic learning and study activities. The project focuses on creating a structured and user-friendly environment where students can organize their study-related resources, manage their learning activities, and keep track of their academic progress. The application combines a modern responsive interface with a scalable backend and database architecture to provide a smooth experience across different devices.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | [e.g. Python, FastAPI, TensorFlow] |
-| **Scale** | [e.g. Real-time inference on X requests/sec] |
-| **Performance** | [e.g. 92% model accuracy, sub-200ms inference] |
-| **Security** | [e.g. OAuth2, encrypted storage] |
-| **Impact** | [e.g. Automated a manual process end-to-end] |
-| **Repository** | [Link to repo] |
+| **Stack** | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS |
+| **Scale** | Full-stack web application with authentication & database |
+| **Performance** | Optimized server-side rendering and responsive UI |
+| **Security** | Secure authentication and protected user data |
+| **Impact** | Centralizes study planning and resource management |
+|**Repository**| https://www.gitpeekr.com/ |
+|**App link** | https://gowithstudy.vercel.app/ |
 
-[Optional: technical explanation.]
+Technical Explanation:
+GoWithStudy is developed using a modern full-stack architecture where Next.js and TypeScript are used to build the application interface and application logic. Tailwind CSS is used to create a responsive and consistent user interface that can adapt to different screen sizes. The backend and data layer are connected through Prisma ORM, which provides a structured way to communicate with the PostgreSQL database and manage application data efficiently.
+
+The project follows a modular architecture so that different parts of the application can be maintained and extended independently. Database models are managed through Prisma, while server-side functionality handles application logic and data operations. Authentication and protected routes help ensure that user-specific information is accessible only to the appropriate users. The overall structure is designed with scalability in mind, making it easier to add additional educational features and functionality in the future.
+
+Problem Solving & Development:
+The project involved designing the application structure, connecting the frontend with backend functionality, managing relational database data, implementing authentication, creating responsive UI components, and handling different application states and user interactions. This project demonstrates practical experience with full-stack development, TypeScript, database management, API/server-side logic, authentication, responsive design, and modern web application architecture.
 
 </details>
 
@@ -168,25 +175,6 @@ Contributed to a 2D football goal-shooting mobile game as part of the software d
 
 ---
 
-## 🟣 Certifications
-
-**AWS**
-
-![AWS](https://img.shields.io/badge/Add_Your_AWS_Certification-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Add_Your_Oracle_Certification-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/Add_Your_NPTEL_Course-4C1D95?style=flat-square)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Add_Your_Cisco_Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
 
 ## 🟣 Coding Profiles
 
