@@ -125,22 +125,21 @@ The project involved designing the application structure, connecting the fronten
 </details>
 
 <details>
-<summary><b>🔹 [Project Three Name]</b></summary>
+<summary><b>🔹 SkillBridge — AI-Powered Career & Job Platform</b></summary>
 <br/>
+SkillBridge is a full-stack career and job platform designed to help students and job seekers manage different stages of their career journey in one place. The project includes features such as job discovery, resume and ATS analysis, skill-gap identification, learning guidance, mock interview preparation, and recruiter-related workflows. I worked hands-on with the project by implementing features, integrating frontend and backend functionality, working with APIs and databases, debugging issues, and testing different application flows. AI tools were used selectively as a development assistant for coding suggestions, debugging, problem-solving, and improving certain implementations, while the overall project development and integration involved my own work and understanding.
 
-[Add a concise, impact-focused description.]
 
 | Category | Details |
 |:--|:--|
-| **Stack** | [e.g. Next.js, MongoDB, AWS] |
-| **Scale** | [Scale detail] |
-| **Performance** | [Performance detail] |
-| **Security** | [Security detail] |
-| **Impact** | [Impact detail] |
-| **Repository** | [Link to repo] |
+| **Stack** | Angular, TypeScript, Node.js, Express.js, MongoDB |
+| **Scale** | Full-stack career platform with multiple career-focused modules |
+| **Performance** | Responsive UI, API-based architecture, optimized data handling and job-search flow |
+| **Security** | Authentication, password protection, role-based access and secure API handling |
+| **Impact** | Helps students and job seekers with job discovery, resume analysis, skill-gap identification and interview preparation |
+| **Repository** | https://github.com/igaurav25/SkillBridge |
 
-[Optional: technical explanation.]
-
+The application follows a full-stack architecture using Angular and TypeScript for the frontend, Node.js and Express.js for backend services, and MongoDB for data management. The project includes multiple integrated career modules with authentication, API communication, database operations and responsive UI implementation. AI assistance was used selectively during development, while the project structure, feature integration, testing and implementation were worked through hands-on development.
 </details>
 
 ---
