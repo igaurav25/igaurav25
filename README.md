@@ -137,7 +137,7 @@ SkillBridge is a full-stack career and job platform designed to help students an
 | **Performance** | Responsive UI, API-based architecture, optimized data handling and job-search flow |
 | **Security** | Authentication, password protection, role-based access and secure API handling |
 | **Impact** | Helps students and job seekers with job discovery, resume analysis, skill-gap identification and interview preparation |
-| **Repository** | https://github.com/igaurav25/SkillBridge |
+| **Repository** | https://github.com/igaurav25/SkillBridge2.0 |
 
 The application follows a full-stack architecture using Angular and TypeScript for the frontend, Node.js and Express.js for backend services, and MongoDB for data management. The project includes multiple integrated career modules with authentication, API communication, database operations and responsive UI implementation. AI assistance was used selectively during development, while the project structure, feature integration, testing and implementation were worked through hands-on development.
 </details>
