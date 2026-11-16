@@ -80,7 +80,7 @@ I'm **Gaurav Joshi**, a B.Tech Computer Science Engineering student with a stron
 ## 🟣 Featured Projects
 
 <details open>
-<summary><b>🔹 Ruhanix Football Goal Game</b></summary>
+<summary><b>🔹  Football Goal Game</b></summary>
 <br/>
 
 A 2D interactive football goal-shooting game with aim-and-kick gameplay, scoring, shot tracking, and match-state handling — built during a software development internship. Includes a 5-shot challenge mode, goal detection & scoring, a full auth flow (signup, login, persistent sessions, password reset), a player shop, and a PHP + MySQL backend exposed through REST APIs.
@@ -92,7 +92,7 @@ A 2D interactive football goal-shooting game with aim-and-kick gameplay, scoring
 | **Performance** | [Add specifics if you have them — e.g. load time, frame rate] |
 | **Security** | Signup, login, persistent sessions, logout, and password reset |
 | **Impact** | Built as part of a live IT Developer internship at Ruhanix Solutions |
-| **Repository** | [ruhanix-football-goal-game](https://github.com/igaurav25/ruhanix-football-goal-game) |
+| **Repository** | [football-goal-game](https://github.com/igaurav25/football-goal-game) |
 
 Worked across the stack — from gameplay mechanics and goal detection on the frontend to the PHP/MySQL backend handling player, game, and shop data.
 
